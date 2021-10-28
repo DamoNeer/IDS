@@ -8,7 +8,7 @@ environment. It created an environment to acquire raw TCP/IP dump data for a net
 - Normal
 - Anomalous
 
-# Machine Learning Model
+# Summary
 
 Three models were used in this experiment: Bernoulli Naive Baye, Decision Tree, and Logistic Regression. The results of each model are printed as outputs on the notebook. In order to get better results, I would try combining the ML models or implementing a voting ensemble.
 
